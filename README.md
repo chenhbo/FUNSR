@@ -18,7 +18,7 @@ FUNSR is a **F**reehand 3D **U**ltrasound **N**eural **S**urface **R**econstruct
 * Example results of publicly available [Dataset \#4](https://muregpro.github.io/).
 
 <div align="center">
-<img src="img/Picture2.png" style="zoom:35%" alt="Framework"/>
+<img src="img/Picture2.png" style="zoom:25%" alt="Framework"/>
 </div>
 
 
